@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Clone the repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Alasil1/handwritten_digit_app/tree/main
 cd your-repo-name
 
 
